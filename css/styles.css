@@ -59,7 +59,7 @@ h3, h4 {
 .header {
     padding-top: 57px;
     height: 900px;
-    background: center / cover no-repeat url(../img/header-bg.jpg);
+    background: center / cover no-repeat url(/img/header-bg.jpg);
     color: #FFF;
 }
 
